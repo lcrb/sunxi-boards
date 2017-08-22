@@ -613,7 +613,7 @@ i2s_dout0 = port:PG12<2><1><default><default>
 i2s_din = port:PG13<2><1><default><default>
 
 [audio0]
-audio_used = 0
+audio_used = 1
 lineout_vol = 31
 cap_vol = 5
 audio_hp_ldo = "none"
